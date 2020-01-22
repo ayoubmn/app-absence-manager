@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">gitapp</string>
+    <string-array name="ine">
+        <item>INE1</item>
+        <item>INE2</item>
+        <item>INE3</item>
+    </string-array>
+    <string-array name="filliere">
+        <item>DATA</item>
+        <item>ASEDS</item>
+        <item>ICCN</item>
+        <item>AMOA</item>
+        <item>SYSNUM</item>
+        <item>CLOUD</item>
+    </string-array>
+    <string-array name="vacation">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
